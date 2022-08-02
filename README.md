@@ -1,4 +1,4 @@
-## Oi!!  eu sou o Marlon Santiago, cursando tecnologia da informação e aprendendo e desenvolvendo com Python.
+## Oi!!  eu sou o Marlon Santiago, cursando tecnologia da informação e aprendendo a progamar com Python.
 <div align="center">
   <a href="https://github.com/Marlon-Santiago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marlon-Santiago&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
